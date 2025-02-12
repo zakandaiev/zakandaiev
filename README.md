@@ -142,4 +142,7 @@ Front-End/Full-stack Web Developer
 <a href="https://t.me/zakandaiev" target="_blank">
 <img src="./icon/telegram.svg" width="36" height="36" alt="Telegram" />
 </a>
+<a href="https://www.youtube.com/@zakandaiev" target="_blank">
+<img src="./icon/youtube.svg" width="36" height="36" alt="YouTube" />
+</a>
 </p>
