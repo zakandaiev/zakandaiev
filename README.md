@@ -1,139 +1,28 @@
-# Hi 👋 I'm Oleksandr Zakandaiev
+# 👋 Hi, I'm Oleksandr Zakandaiev
 
-## Full-stack Web Developer
+## 🚀 Full-stack Web Developer
 
 * 🌍  Based in Kyiv, Ukraine
 * 🖥️  See my portfolio at [zakandaiev.com](http://zakandaiev.com/#portfolio)
 * ✉️  Contact me at [zakandaiev@gmail.com](mailto:zakandaiev@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 
-### Front-End Skills
+## 🛠️ Tech Stack
 
-<p align="left">
-  <a href="https://gulpjs.com/" target="_blank">
-  <img src="./icon/gulp.svg" width="36" height="36" alt="Gulp" />
-  </a>
-  <a href="https://vitejs.dev/" target="_blank">
-  <img src="./icon/vite.svg" width="36" height="36" alt="Vite" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="./icon/javascript.svg" width="36" height="36" alt="JavaScript" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="./icon/html.svg" width="36" height="36" alt="HTML" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="./icon/css.svg" width="36" height="36" alt="CSS" />
-  </a>
-  <a href="https://sass-lang.com/" target="_blank">
-  <img src="./icon/sass.svg" width="36" height="36" alt="Sass" />
-  </a>
-  <a href="https://vuejs.org/" target="_blank">
-  <img src="./icon/vuejs.svg" width="36" height="36" alt="Vue" />
-  </a>
-  <a href="https://nuxtjs.org/" target="_blank">
-  <img src="./icon/nuxtjs.svg" width="36" height="36" alt="Nuxtjs" />
-  </a>
-  <a href="https://pinia.vuejs.org/" target="_blank">
-  <img src="./icon/pinia.svg" width="36" height="36" alt="Pinia" />
-  </a>
-</p>
+### Frontend
+Vue.js, Nuxt.js, Vite, Gulp, HTML, SASS/SCSS, JavaScript, Twig
 
+### Backend
+Node.js, Fastify, MariaDB, MongoDB, Redis, PHP, SQL
 
-### Back-End Skills
+### Common
+Docker, Git, ESLint, StyleLint, Figma, Postman, Telegram, OSPanel.io, phpMyAdmin, RegExp, RestAPI
 
-<p align="left">
-  <a href="https://nodejs.org/en/" target="_blank">
-  <img src="./icon/nodejs.svg" width="36" height="36" alt="NodeJS" />
-  </a>
-  <a href="https://fastify.dev/" target="_blank">
-  <img src="./icon/fastify.svg" width="36" height="36" alt="Fastify" />
-  </a>
-  <a href="https://graphql.org/" target="_blank">
-  <img src="./icon/graphql.svg" width="36" height="36" alt="GraphQL" />
-  </a>
-  <a href="https://mongodb.com/" target="_blank">
-  <img src="./icon/mongodb.svg" width="36" height="36" alt="MongoDB" />
-  </a>
-  <a href="https://php.net/" target="_blank">
-  <img src="./icon/php.svg" width="36" height="36" alt="PHP" />
-  </a>
-  <a href="https://wikipedia.org/wiki/SQL/" target="_blank">
-  <img src="./icon/sql.svg" width="36" height="36" alt="SQL" />
-  </a>
-  <a href="https://mariadb.org/" target="_blank">
-  <img src="./icon/mariadb.svg" width="36" height="36" alt="MariaDB" />
-  </a>
-  <a href="https://postgresql.org/" target="_blank">
-  <img src="./icon/postgresql.svg" width="36" height="36" alt="PostgreSQL" />
-  </a>
-  <a href="https://redis.io/" target="_blank">
-  <img src="./icon/redis.svg" width="36" height="36" alt="Redis" />
-  </a>
-</p>
-
-
-### Common Skills
-
-<p align="left">
-  <a href="https://docker.com/" target="_blank">
-  <img src="./icon/docker.svg" width="36" height="36" alt="Docker" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-  <img src="./icon/git.svg" width="36" height="36" alt="Git" />
-  </a>
-  <a href="https://npmjs.com/" target="_blank">
-  <img src="./icon/npm.svg" width="36" height="36" alt="NPM" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-  <img src="./icon/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
-  </a>
-  <a href="https://eslint.org/" target="_blank">
-  <img src="./icon/eslint.svg" width="36" height="36" alt="ESLint" />
-  </a>
-  <a href="https://stylelint.io/" target="_blank">
-  <img src="./icon/stylelint.svg" width="36" height="36" alt="Stylelint" />
-  </a>
-  <a href="https://figma.com/" target="_blank">
-  <img src="./icon/figma.svg" width="36" height="36" alt="Figma" />
-  </a>
-  <a href="https://atlassian.com/software/jira/" target="_blank">
-  <img src="./icon/jira.svg" width="36" height="36" alt="Jira" />
-  </a>
-  <a href="https://core.telegram.org/bots" target="_blank">
-  <img src="./icon/telegram.svg" width="36" height="36" alt="Telegram Bots" />
-  </a>
-  <a href="https://ospanel.io/" target="_blank">
-  <img src="./icon/ospanel.svg" width="36" height="36" alt="OpenServer" />
-  </a>
-  <a href="https://phpmyadmin.net/" target="_blank">
-  <img src="./icon/phpmyadmin.svg" width="36" height="36" alt="phpMyAdmin" />
-  </a>
-  <a href="https://filezilla-project.org/" target="_blank">
-  <img src="./icon/filezilla.svg" width="36" height="36" alt="FileZilla" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/" target="_blank">
-  <img src="./icon/regex.svg" width="36" height="36" alt="RegEx" />
-  </a>
-</p>
-
-
-### Socials
-
-<p align="left">
-  <a href="https://github.com/zakandaiev" target="_blank">
-  <img src="./icon/github.svg" width="36" height="36" alt="GitHub" />
-  </a>
-  <a href="https://codepen.io/zakandaiev" target="_blank">
-  <img src="./icon/codepen.svg" width="36" height="36" alt="Codepen" />
-  </a>
-  <a href="https://linkedin.com/in/zakandaiev" target="_blank">
-  <img src="./icon/linkedin.svg" width="36" height="36" alt="LinkedIn" />
-  </a>
-  <a href="https://t.me/zakandaiev" target="_blank">
-  <img src="./icon/telegram.svg" width="36" height="36" alt="Telegram" />
-  </a>
-  <a href="https://www.youtube.com/@zakandaiev" target="_blank">
-  <img src="./icon/youtube.svg" width="36" height="36" alt="YouTube" />
-  </a>
-</p>
+## 🔗 Link
+- Portfolio: [zakandaiev.com](http://zakandaiev.com/#portfolio)
+- Email: [zakandaiev@gmail.com](mailto:zakandaiev@gmail.com)
+- GitHub: [https://github.com/zakandaiev](https://github.com/zakandaiev)
+- CodePen: [https://codepen.io/zakandaiev](https://codepen.io/zakandaiev)
+- LinkedIn: [https://linkedin.com/in/zakandaiev](https://linkedin.com/in/zakandaiev)
+- Telegram: [https://t.me/zakandaiev](https://t.me/zakandaiev)
+- YouTube: [https://youtube.com/@zakandaiev](https://youtube.com/@zakandaiev)
